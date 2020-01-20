@@ -68,6 +68,9 @@ body {
 .linkedin-sign span {
 	background-color: #0077B5;
 }
+.github span {
+	background-color: #000000;
+}
 
 /* Icons */
 .icon-button i {
@@ -106,12 +109,16 @@ body {
 .icon-button .icon-instagram {
 	color: #833ab4;
 }
+.icon-button .icon-github {
+	color: #000000;
+}
 .icon-button:hover .icon-twitter,
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-music,
 .icon-button:hover .icon-instagram,
 .icon-button:hover .icon-font,
 .icon-button:hover .icon-linkedin-sign,
-.icon-button:hover .icon-google-plus {
+.icon-button:hover .icon-google-plus,
+.icon-button:hover .icon-github {
 	color: white;
 }
